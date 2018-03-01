@@ -1,0 +1,3 @@
+Sat, 24 Feb 2018 11:22:59 test.py [line: 28] DEBUG 这是debug日志记录
+Sat, 24 Feb 2018 11:22:59 test.py [line: 29] INFO 这是info日志记录
+Sat, 24 Feb 2018 11:22:59 test.py [line: 30] WARNING 这是warning日志记录
